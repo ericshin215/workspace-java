@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Change method &apos;private static void kr.co.himedia.loop.MyCalculator.divideNum()&apos; to &apos;public static void divideNum()&apos;&#x0D;&#x0A;- Original project: &apos;Chap05(반복문)&apos;&#x0D;&#x0A;- Original element: &apos;kr.co.himedia.loop.MyCalculator.divideNum()&apos;&#x0D;&#x0A;- New visibility: &apos;public&apos;" delegate="false" deprecate="true" description="Change method &apos;divideNum&apos;" flags="589826" id="org.eclipse.jdt.ui.change.method.signature" input="/src&lt;kr.co.himedia.loop{MyCalculator.java[MyCalculator~divideNum" name="divideNum" stamp="1688975438594" version="1.0" visibility="1"/>
+</session>

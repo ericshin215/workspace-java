@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;kr.co.CalculatorTest&apos; to &apos;kr.co.review&apos;&#x0D;&#x0A;- Original project: &apos;Chap02(변수)&apos;&#x0D;&#x0A;- Original element: &apos;Chap02(변수)/src/kr.co.CalculatorTest&apos;&#x0D;&#x0A;- Renamed element: &apos;Chap02(변수)/src/kr.co.review&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;kr.co.CalculatorTest&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;kr.co.CalculatorTest" name="kr.co.review" qualified="false" references="true" stamp="1688518232039" textual="false" version="1.0"/>
+</session>

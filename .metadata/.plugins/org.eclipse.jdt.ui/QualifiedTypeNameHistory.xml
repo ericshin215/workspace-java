@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="operator2.ScannerTest"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="kr.co.himeida.field02.FieldInit"/>
+    <fullyQualifiedTypeName name="kr.co.himeida.member.Student"/>
+    <fullyQualifiedTypeName name="kr.co.himeida.constructor03.Student"/>
+    <fullyQualifiedTypeName name="java.lang.StringBuffer"/>
+    <fullyQualifiedTypeName name="kr.co.himeida.staticarea.NonStaticTest"/>
+    <fullyQualifiedTypeName name="kr.co.himeida.singleton02.CarFactory"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.array2.Book"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.array3.ArrayInMethod"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.arraylist03.Student"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance02.Employee"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance02.RempDTO"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Circle"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.inheritance.Triangle"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.overriding.Cat"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.polymorphism.Eagle"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.membership.VIPCustomer"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.abstractclass.MyNoteBook"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.templatemethod.GenerativeAICar"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.templatemethod.ManualCar"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.utilitiesInterface.userinfo.UserInfoDTO"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.utilitiesInterface.userinfo.dao.postgres.PostgreSQLDAOImpl"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.utilitiesInterface.userinfo.dao.oracle.OracleDAOImpl"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.utilitiesInterface.userinfo.dao.UserInfoDAO"/>
+    <fullyQualifiedTypeName name="kr.co.himedia.utilitiesInterface.userinfo.dao.MySQL.MySQLDAOImpl"/>
+    <fullyQualifiedTypeName name="inflearnJava.inflearn"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="kr.tpc.Dog"/>
+    <fullyQualifiedTypeName name="kr.tpc.Animal"/>
+    <fullyQualifiedTypeName name="kr.tpc.Remocon"/>
+    <fullyQualifiedTypeName name="kr.tpc.Dbconnect"/>
+    <fullyQualifiedTypeName name="kr.tpc.JavaMySQL"/>
+</qualifiedTypeNameHistroy>

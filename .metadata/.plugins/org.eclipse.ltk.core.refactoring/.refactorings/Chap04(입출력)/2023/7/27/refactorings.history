@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;kr.co.himedia.decisionif&apos; to &apos;kr.co.himedia.decisionSwitch&apos;&#x0D;&#x0A;- Original project: &apos;Chap04(입출력)&apos;&#x0D;&#x0A;- Original element: &apos;Chap04(입출력)/src/kr.co.himedia.decisionif&apos;&#x0D;&#x0A;- Renamed element: &apos;Chap04(입출력)/src/kr.co.himedia.decisionSwitch&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;kr.co.himedia.decisionif&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;kr.co.himedia.decisionif" name="kr.co.himedia.decisionSwitch" qualified="false" references="true" stamp="1688696148671" textual="false" version="1.0"/>
+</session>
